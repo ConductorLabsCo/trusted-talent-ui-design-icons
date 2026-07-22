@@ -1,1 +1,1 @@
-# TNS Design Icons
+# Trusted Talent UI Design Icons
